@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fix heatmaps width-height order bug (#7184)
