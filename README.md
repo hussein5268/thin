@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
