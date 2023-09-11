@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add C++ Classify inference example (#6868)
