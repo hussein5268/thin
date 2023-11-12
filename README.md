@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+OpenVino 2024.0.0 (#8726)
